@@ -1,0 +1,10 @@
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\bin\Debug\WindowsFormNet.exe.config
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\bin\Debug\WindowsFormNet.exe
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\bin\Debug\WindowsFormNet.pdb
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.csprojAssemblyReference.cache
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.Properties.Resources.resources
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.csproj.GenerateResource.cache
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.csproj.CoreCompileInputs.cache
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.exe
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.pdb
+C:\Users\ijatu\Documents\Projects\Assessment\IsarAerospace\WindowsFormNet\obj\Debug\WindowsFormNet.BookRecordForm.resources
